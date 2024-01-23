@@ -12,6 +12,7 @@ If you want more in a particular topic, or have resources to share, post in the 
 * [MIT OpenCourseWare: 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   * This not only has lectures from Gilbert Strang, one of the most well known and highly regarded Linear Algebra Profs of all time, but practice problems, recitations (like a tutorial), and practice exams (all with solutions and expanations of the process)
 * [3Blue1Brown: Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=a3Iv4Xm85umd5VaF)
+* [Khan Academy | Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
 ## Section 0
 Set Builder Notation
