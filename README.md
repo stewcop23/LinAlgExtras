@@ -4,7 +4,7 @@ Dont worry if youre feeling lost in APSC 174, all of the profs are bad. These re
 
 Organised by Section as arranged in the lecture notes.
 
-If you want more in a particular topic, or have resources to share, post in the issues tab or send me an email at [my email](mailto:22lxj1@queensu.ca)
+If you want more in a particular topic, or have resources to share, post in the discussion tab or if you're really desperate, send me an email at [my email](mailto:22lxj1@queensu.ca)
 
 **This is not a replacemnt of attending lectures!!** There is material that is covered in class that is so weird and niche that I wont be able to find resources for it.
 
