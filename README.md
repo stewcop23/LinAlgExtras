@@ -6,13 +6,16 @@ Organised by Section as arranged in the lecture notes.
 
 If you want more in a particular topic, or have resources to share, post in the discussion tab or if you're really desperate, send me an email at [my email](mailto:22lxj1@queensu.ca)
 
-**This is not a replacemnt of attending lectures!!** There is material that is covered in class that is so weird and niche that I wont be able to find resources for it.
+***This is not a replacemnt of attending lectures!!*** There is material that is covered in class that is so weird and niche that I wont be able to find resources for it.
 
 ## General Resources
 * [MIT OpenCourseWare: 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+  * This doesnt cover ALL of 174, theres a few weird things we do that 18.06SC doesnt cover, but overall it's a very good course
   * This not only has lectures from Gilbert Strang, one of the most well known and highly regarded Linear Algebra Profs of all time, but practice problems, recitations (like a tutorial), and practice exams (all with solutions and expanations of the process)
 * [3Blue1Brown: Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=a3Iv4Xm85umd5VaF)
+  * A great math youtube channel in general, and this series provides excelent visualizations of some of the weirder concepts.
 * [Khan Academy | Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+  * If you dont know Khan Academy, you should, they're great. not sure how close their course is to 174, but there may be a few usefull practice problems on there
 
 ## Section 0
 Set Builder Notation
@@ -34,6 +37,7 @@ Real Vector Spaces
 Vector Subspaces
 
 * [From MIT 18.06SC Lecture 5, Starts at 20:45](https://youtu.be/JibVXBElKL0?si=WqNBI-49PZVl4Rmu&t=1245)
+* [Khan Academy | Linear Subspaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
 
 
 ## Section 4
