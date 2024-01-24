@@ -2,11 +2,11 @@
 
 Dont worry if youre feeling lost in APSC 174, all of the profs are bad. These resources will be provided as a way of augmenting our learning in ways that *hopefully* make more sense than the lectures we are given. 
 
-If you want more in a particular topic, or have resources to share, post in the discussion tab or if you're really desperate, send me an email at [my email](mailto:22lxj1@queensu.ca)
-
 ***This is not a replacemnt of attending lectures!!*** There is material that is covered in class that is so weird and niche that I will not be able to find resources for it.
 
 Organised by section in the lecture notes.
+
+If you want more on a particular topic, or have resources to share, post in the discussion tab or if you're really desperate, send me an email at [my email](mailto:22lxj1@queensu.ca)
 
 ## General Resources
 * [MIT OpenCourseWare: 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
