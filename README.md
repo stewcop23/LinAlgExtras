@@ -50,7 +50,7 @@ Vector Subspaces
 Linear Combinations & Span
 * [3Blue1Brown | Linear combinations, span, and basis vectors ](https://youtu.be/k7RM-ot2NWY?si=H0zm7Yyp5YG3ZjrI)
 * [Khan Academy | Linear Combinations and Span](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span)
-* [Wikipedia | Linear Conbination](https://en.wikipedia.org/wiki/Linear_combination)
+* [Wikipedia | Linear Combination](https://en.wikipedia.org/wiki/Linear_combination)
 * [Wikipedia | Span](https://en.wikipedia.org/wiki/Linear_span)
 
 
