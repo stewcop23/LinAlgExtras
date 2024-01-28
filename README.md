@@ -35,6 +35,11 @@ Systems of Linear Equations
 
 ## Section 2
 Real Vector Spaces
+* [Professor Dave Explains | Understanding Real Vector Spaces](https://www.youtube.com/watch?v=EP2ghkO0lSk)
+* [Dr. Trefor Bazett | Vector Spaces](https://www.youtube.com/watch?v=72GtkP6nP_A)
+* [Dr. Trefor Bazett | The Vector Space of Polynomials](https://www.youtube.com/watch?v=SzZaQnzstfE)
+* [Kimberly Brehm | Vector Spaces](https://www.youtube.com/watch?v=QMwwplztQfY) - has lots of good practice questions
+* [3Blue1Brown | Abstract Vector Spaces](https://www.youtube.com/watch?v=TgKwz5Ikpc8) - this isnt *exactly* what we're learning, and it's a bit beyond where we are right now, but it's similar
 * [LibreTexts | 4.1: Deﬁnition of vector spaces](https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%3A_Vector_spaces/4.01%3A_De%EF%AC%81nition_of_vector_spaces#:~:text=A%20vector%20space%20over%20R%20is%20usually%20called,V%20of%20a%20vector%20space%20are%20called%20vectors.)
 * [Wikipedia | Vector space](https://en.wikipedia.org/wiki/Vector_space)
 
@@ -44,6 +49,7 @@ Vector Subspaces
 
 * [From MIT 18.06SC Lecture 5, Starts at 20:45](https://youtu.be/JibVXBElKL0?si=WqNBI-49PZVl4Rmu&t=1245) (We haven't hit the material before 20:45 yet)
 * [Khan Academy | Linear Subspaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
+* [Kimberly Brehm | Subspaces of a Vector Space](https://www.youtube.com/watch?v=2Ee2B1Jp5ZE)
 
 
 ## Section 4
