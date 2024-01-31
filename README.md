@@ -8,6 +8,9 @@ Organised by section in the lecture notes.
 
 If you want more on a particular topic, or have resources to share, post in the discussion tab or, if you're really desperate, send me an email at [my email](mailto:22lxj1@queensu.ca)
 
+## Previous Exams
+[Gradebank resources can be found here](https://qspace.library.queensu.ca/browse/title?scope=cab1b9d2-6777-45cd-b56d-78c608468888&bbm.page=1&startsWith=APSC174)
+
 ## General Resources
 * [Linear Algebra 4th Edition](https://ia804704.us.archive.org/22/items/linear-algibra-4th-edition-by-friedberg/Linear%20Algibra%204th%20edition%20by%20Friedberg.pdf)
   * The textbook for this course, useful if you skip lectures, but once again, probably not a complete replacement.
