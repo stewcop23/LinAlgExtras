@@ -9,6 +9,10 @@ Organised by section in the lecture notes.
 If you want more on a particular topic, or have resources to share, post in the discussion tab or, if you're really desperate, send me an email at [my email](mailto:22lxj1@queensu.ca)
 
 ## General Resources
+* [Linear Algebra 4th Edition](https://ia804704.us.archive.org/22/items/linear-algibra-4th-edition-by-friedberg/Linear%20Algibra%204th%20edition%20by%20Friedberg.pdf)
+  * The textbook for this course, useful if you skip lectures, but once again, probably not a complete replacement.
+  * Solutions to problems can be found at the back of the textbook, but more slightly more detailed answers can be found [HERE](https://jlch3554.files.wordpress.com/2012/11/la-solution-2011-7.pdf)
+
 * [MIT OpenCourseWare: 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   * This doesnt cover ALL of 174, there's a few weird things in APSC 174 that 18.06SC doesn't cover, but overall it seems to cover most of it.
   * This not only has lectures from Gilbert Strang, one of the most well known and highly regarded Linear Algebra Profs of all time, but practice problems, recitations (like a tutorial), and practice exams (all with solutions and expanations of the process)
