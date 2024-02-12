@@ -25,7 +25,7 @@ If you want more on a particular topic, or have resources to share, post in the 
   * If you dont know Khan Academy, you should, they're great. Not sure how close their course is to 174, but there may be a few usefull practice problems on there
 * [Kimberly Brehm | Linear Agebra (Entire Course)](https://youtube.com/playlist?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&si=IidBIq97HmHjQie8)
   * I haven't looked very far into this one, but according to a Sci 26, it has "similar content" although it's "in a bit of a different order"
-* [Dr. Trevor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+* [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
   * Seems like it has plenty of good examples that relate to topics were covering
 * [Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
   * Wikipedia can often be dense, technical, and often goes beyond what we will learn in 174, so it may not help a ton, however, it is written in the same language as 174, and may aid in clearing things up
@@ -36,7 +36,7 @@ If you want more on a particular topic, or have resources to share, post in the 
 
 ## Section 1 - Systems of Linear Equations
 * [MIT 18.06SC | 1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80&t=2096s)
-* [Dr. Trevor Bazett | What is a solution to a Linear System](https://youtu.be/H8MiZMJr1kQ?si=8-DtM0x-QYszabxE)
+* [Dr. Trefor Bazett | What is a solution to a Linear System](https://youtu.be/H8MiZMJr1kQ?si=8-DtM0x-QYszabxE)
 
 
 ## Section 2 - Real Vector Spaces
@@ -54,7 +54,7 @@ If you want more on a particular topic, or have resources to share, post in the 
 * [From MIT 18.06SC Lecture 5, Starts at 20:45](https://youtu.be/JibVXBElKL0?si=WqNBI-49PZVl4Rmu&t=1245) (We haven't hit the material before 20:45 yet)
 * [Khan Academy | Linear Subspaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
 * [Kimberly Brehm | Subspaces of a Vector Space](https://www.youtube.com/watch?v=2Ee2B1Jp5ZE)
-* [Dr Trevor Bazett | Subspaces](https://youtu.be/rgxyxcTwvuo?si=hrAhS-z1bpW80Wr9)
+* [Dr Trefor Bazett | Subspaces](https://youtu.be/rgxyxcTwvuo?si=hrAhS-z1bpW80Wr9)
 
 
 ## Section 4 - Linear Combinations & Span
@@ -74,7 +74,7 @@ If you want more on a particular topic, or have resources to share, post in the 
   * This is unfortunalty not that good of an explanation as we haven't learnt enough about matrixes for what he is saying to really make sense. However, it may make more sense later.
 * [Kimberly Brehm | Linear Independence](https://youtu.be/ofGN1Gtgjok?si=AP3WDnoh5DWCBOS6)
 * [Kimberly Brehm | Special Methods of Determining Linear Independence](https://www.youtube.com/watch?v=EdLoNRo0s28&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=14&t=132s)
-* [Dr. Trevor Bazett | Linear Independence and Dependence - Geometrically](https://youtu.be/Bn547nOfs3w?si=al0JmK0ZxB1H8C43)
+* [Dr. Trefor Bazett | Linear Independence and Dependence - Geometrically](https://youtu.be/Bn547nOfs3w?si=al0JmK0ZxB1H8C43)
 
 ## Section 6 - "Applications of Systems of Linear Equations"
 This section boils down to asking: "how many solutions are there to: $w = \alpha_1 v_1 + \alpha_2v_2 +...\alpha_pv_p$?
