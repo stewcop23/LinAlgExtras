@@ -103,10 +103,17 @@ Dependant? There is infinitely many solutions.
 * [Dr Trefor Bazett | Back Substitution with infinitely many solutions](https://www.youtube.com/watch?v=3lMH_no_OvA&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=9)
 * [Wikipedia | Elementary row operations](https://en.wikipedia.org/wiki/Elementary_matrix#Elementary_row_operations)
 
-## Section 8 & 9- Generating Sets and Bases, Finite Dimensional Bases 
+## Section 8 & 9 - Generating Sets and Bases, Finite Dimensional Bases 
 * [Kimberly Brehm | Linearly Independant sets and Bases](https://www.youtube.com/watch?v=lOyFbpemz58&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=30&t=32s)
 * [Kimberly Brehm | The Spanning Set Theorem](https://www.youtube.com/watch?v=atwUmR-qpfk&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=31)
 * [Kimberly Brehm | The Dimension of a Vector Space](https://www.youtube.com/watch?v=jk6YPdIIJUg&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=32)
 * [Kimberly Brehm | Subspaces of a Finite Dimensional Space](https://www.youtube.com/watch?v=lgKR0iJi7Ww&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=33)
 * [Wikipedia | Generating Sets](https://en.wikipedia.org/wiki/Linear_span#Theorems)
 * [Wikipedia | Basis](https://en.wikipedia.org/wiki/Basis_(linear_algebra))
+
+## Section 10 - Linear Transformations, Image and Kernel of a Linear Transformation
+* [Dr Trefor Bazett | Linear Transformations](https://www.youtube.com/watch?v=VP_hZp8_dCg&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=25)
+* [3Blue1Brown | Linear transformations and matrices](https://youtu.be/kYB8IZa5AuE?si=g8Py7Wv3MLX_2LLh)
+* [Khan Academy | Functions and linear transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions)
+* [Khan Academy | Linear transformation examples](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-scaling-and-reflections)
+* [Kimberly Brehm | Introduction to Linear Transformations](https://www.youtube.com/watch?v=ofAcvZVEfBk&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=16)
