@@ -104,6 +104,11 @@ Dependant? There is infinitely many solutions.
 * [Wikipedia | Elementary row operations](https://en.wikipedia.org/wiki/Elementary_matrix#Elementary_row_operations)
 
 ## Section 8 & 9 - Generating Sets and Bases, Finite Dimensional Bases 
+
+A generating set for the RVS, $V$, is a set of vectors $v_1,v_2,...,v_p$ $\in V$ where $V$ is the span of ${v_1,v_2,...,v_p}$.
+
+A basis for $V$ is a generating set for $V$ that is also linearly independant. And for a finite-dimensional basis, dim($V$) = minimum number of vectors required to form a basis for $V$. 
+
 * [Kimberly Brehm | Linearly Independant sets and Bases](https://www.youtube.com/watch?v=lOyFbpemz58&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=30&t=32s)
 * [Kimberly Brehm | The Spanning Set Theorem](https://www.youtube.com/watch?v=atwUmR-qpfk&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=31)
 * [Kimberly Brehm | The Dimension of a Vector Space](https://www.youtube.com/watch?v=jk6YPdIIJUg&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=32)
