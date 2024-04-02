@@ -103,4 +103,10 @@ Dependant? There is infinitely many solutions.
 * [Dr Trefor Bazett | Back Substitution with infinitely many solutions](https://www.youtube.com/watch?v=3lMH_no_OvA&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=9)
 * [Wikipedia | Elementary row operations](https://en.wikipedia.org/wiki/Elementary_matrix#Elementary_row_operations)
 
-
+## Sectio 8 - Generating Sets and Basises
+* [Kimberly Brehm | Linearly Independant sets and Bases](https://www.youtube.com/watch?v=lOyFbpemz58&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=30&t=32s)
+* [Kimberly Brehm | The Spanning Set Theorem](https://www.youtube.com/watch?v=atwUmR-qpfk&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=31)
+* [Kimberly Brehm | he Dimension of a Vector Space](https://www.youtube.com/watch?v=jk6YPdIIJUg&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=32)
+* [Kimberly Brehm | Subspaces of a Finite Dimensional Space](https://www.youtube.com/watch?v=lgKR0iJi7Ww&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=33)
+* [Wikipedia | Generating Sets](https://en.wikipedia.org/wiki/Linear_span#Theorems)
+* [Wikipedia | Basis](https://en.wikipedia.org/wiki/Basis_(linear_algebra))
