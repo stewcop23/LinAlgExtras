@@ -92,6 +92,15 @@ Independant? There is only one solution
 Dependant? There is infinitely many solutions.
 
 ## Section 7 - Systems of Linear Equations
-
+* [Kimberly Brehm | Augmented Matrixes and Row Operations](https://youtu.be/SEh3yhEFK1w?si=bHsAsZvbtDEUL24f)
+* [Kimberly Brehm | Row Reduction and Echelon Forms](https://youtu.be/7xtAYrAtuPc?si=zsIsjg_fyhujuq33)
+* [Khan Academy | Solving systems of equations with Matrixes](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-1)
+* [Dr Trefor Bazett | Rewriting a Linear System using Matrix Notation](https://www.youtube.com/watch?v=ghSkNXB08ds&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=4)
+* [Dr Trefor Bazett | Using Elementary Row Operations to Solve Systems of Linear Equations](https://www.youtube.com/watch?v=MbmZk-x2FFs&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=5)
+* [Dr Trefor Bazett | Using Elementary Row Operations to simplify a linear system](https://www.youtube.com/watch?v=B7XtnvNwEPA&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=6)
+* [Dr Trefor Bazett | Examples with 0, 1, and infinitely many solutions to linear systems](https://www.youtube.com/watch?v=B8oszxF9fhI&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=7)
+* [Dr Trefor Bazett | Row Echelon Form and Reduced Row Echelon Form](https://www.youtube.com/watch?v=W01H0LcVUdQ&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=8)
+* [Dr Trefor Bazett | Back Substitution with infinitely many solutions](https://www.youtube.com/watch?v=3lMH_no_OvA&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=9)
+* [Wikipedia | Elementary row operations](https://en.wikipedia.org/wiki/Elementary_matrix#Elementary_row_operations)
 
 
