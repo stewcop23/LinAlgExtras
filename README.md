@@ -119,6 +119,8 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 ## Section 10 - Linear Transformations, Image and Kernel of a Linear Transformation
 * [Dr Trefor Bazett | Linear Transformations](https://www.youtube.com/watch?v=VP_hZp8_dCg&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=25)
 * [3Blue1Brown | Linear transformations and matrices](https://youtu.be/kYB8IZa5AuE?si=g8Py7Wv3MLX_2LLh)
+* [3Blue1Brown | Inverse matrices, column space and null space](https://youtu.be/uQhTuRlWMxw?si=ZIClmfevVTeAI7Vs)
+  * For our purposes, the collmun space is the image, and the null space is the kernel  
 * [Khan Academy | Functions and linear transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions)
 * [Khan Academy | Linear transformation examples](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-scaling-and-reflections)
 * [Kimberly Brehm | Introduction to Linear Transformations](https://www.youtube.com/watch?v=ofAcvZVEfBk&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=16)
