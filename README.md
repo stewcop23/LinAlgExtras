@@ -8,6 +8,19 @@ Organised by section in the lecture notes.
 
 If you want more on a particular topic, or have resources to share, post in the discussion tab or, if you're really desperate, send me an email at [my email](mailto:22lxj1@queensu.ca)
 
+## Ableson's Lectures:
+Ableson has posted recorded lectures! They're very good, I would recomend watching them if you're stuck.
+
+* [Week 2](https://youtube.com/playlist?list=PL6rD7wR_ngfkDQlInmCiyb1XSsf1_gbfj&si=f1j38NGhVLmHXs5x)
+* [Week 3](https://youtube.com/playlist?list=PL6rD7wR_ngfk3ePmRRH4OIDlqFgHH2snT&si=cbUd0oGzWgWk4-MR)
+* [Week 4](https://youtube.com/playlist?list=PL6rD7wR_ngfmBVq_GTJHORqqsxNtxA0us&si=Z-LOl4W5-mTrau8V)
+* [Week 5](https://youtube.com/playlist?list=PL6rD7wR_ngfmnWKSd9jWZUaJ06mO4zK1J&si=qWVHgXfk2uvaikVq)
+* [Week 6](https://youtube.com/playlist?list=PL6rD7wR_ngfmz7PBzYXuRbNK2-hcIgnS1&si=Go1EocBR6C9l9CGS)
+* [Week 10](https://youtube.com/playlist?list=PL6rD7wR_ngflKExFUirTCape2654DBLtY&si=e_X5CXULPDAA6VV-)
+* [Week 11](https://youtube.com/playlist?list=PL6rD7wR_ngflBWdy8bxIsgi-Q8d_AzZ_9&si=WbtOSw8id-wN6hMY)
+* [Week 12](https://youtube.com/playlist?list=PL6rD7wR_ngfkg3E4fZWuhH9KeBDuBqhD-&si=ZY9RFE-y4KLObPYZ)
+
+
 ## Previous Exams
 [Gradebank resources can be found here](https://qspace.library.queensu.ca/browse/title?scope=cab1b9d2-6777-45cd-b56d-78c608468888&bbm.page=1&startsWith=APSC174)
 
