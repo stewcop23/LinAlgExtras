@@ -17,6 +17,7 @@ Ableson has posted recorded lectures! They're very good, I would recomend watchi
 * [Week 5](https://youtube.com/playlist?list=PL6rD7wR_ngfmnWKSd9jWZUaJ06mO4zK1J&si=qWVHgXfk2uvaikVq)
 * [Week 6](https://youtube.com/playlist?list=PL6rD7wR_ngfmz7PBzYXuRbNK2-hcIgnS1&si=Go1EocBR6C9l9CGS)
 * [Week 10](https://youtube.com/playlist?list=PL6rD7wR_ngflKExFUirTCape2654DBLtY&si=e_X5CXULPDAA6VV-)
+* [Week 7](https://youtube.com/playlist?list=PL6rD7wR_ngfnEZQ933DoG1QPBY-vNhhHY&si=zo0TfZRQYtTBX0ma)
 * [Week 11](https://youtube.com/playlist?list=PL6rD7wR_ngflBWdy8bxIsgi-Q8d_AzZ_9&si=WbtOSw8id-wN6hMY)
 * [Week 12](https://youtube.com/playlist?list=PL6rD7wR_ngfkg3E4fZWuhH9KeBDuBqhD-&si=ZY9RFE-y4KLObPYZ)
 
