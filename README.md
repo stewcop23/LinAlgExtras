@@ -163,6 +163,8 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [Dr. Trefor Bazett | The Dimension Theorem | Dim(Null(A)) + Dim(Col(A)) = n  | Also, Rank!](https://www.youtube.com/watch?v=vpl8EZwrqPk&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=56&pp=iAQB)
 * [Kimberly Brehm | Linear Algebra 4.2.1 Null Spaces](https://www.youtube.com/watch?v=Dn7pcKMrU0s&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=28&pp=iAQB)
 * [Kimberly Brehm | Linear Algebra 4.2.2 Column Spaces](https://www.youtube.com/watch?v=2L0qOtgu9eE&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=29&pp=iAQB)
+* [Wikipedia | row and column spaces](https://en.wikipedia.org/wiki/Row_and_column_spaces)
+* [Wikipedia | Rank-Nulity](https://en.wikipedia.org/wiki/Rank%E2%80%93nullity_theorem)
 
 ## Section 12 - Linear Transformations
 
@@ -172,12 +174,14 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [3Blue1Brown | Three-dimensional linear transformations](https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
 * [MIT OpenCourseWare | 30. Linear Transformations and Their Matrices](https://www.youtube.com/watch?v=Ts3o2I8_Mxc&list=PL221E2BBF13BECF6C&index=65&pp=iAQB)
 * [MIT OpenCourseWare | Linear Transformations](https://www.youtube.com/watch?v=2uDvRUowBzg&list=PL221E2BBF13BECF6C&index=66&pp=iAQB)
+* [Wikipedia | Linear Map](https://en.wikipedia.org/wiki/Linear_map)
 
 ## Section 13 - Matrix Multiplication
 
 * [Dr. Trefor Bazett | The motivation and definition of Matrix Multiplication](https://www.youtube.com/watch?v=GY40VT6p8Bo&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=31&pp=iAQB)
 * [3Blue1Brown | Matrix multiplication as composition](https://youtu.be/XkY2DOUCWMU?si=gXNwkhTRjLIj38UC)
 * [Kimberly Brehm | Linear Algebra 2.1.2 Matrix Operations - Multiplication and Transpose](https://www.youtube.com/watch?v=RM24OPadFMA&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=18&pp=iAQB)
+* [Wikipedia | Matrix Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
 
 ## Section 14 - Invertability and Determinants
 
@@ -193,6 +197,8 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [Kimberly Brehm | Linear Algebra 2.2.3 Elementary Matrices And An Algorithm for Finding A Inverse](https://www.youtube.com/watch?v=zcm8plpCUZI&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=21&pp=iAQB)
 * [Kimberly Brehm | Linear Algebra 2.3.1 Characterizations of Invertible Matrices](https://www.youtube.com/watch?v=Ht2Zl0Hfg_I&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=22&pp=iAQB)
 * [MIT OpenCourseWare | 20. Cramer's Rule, Inverse Matrix, and Volume](https://www.youtube.com/watch?v=QNpj-gOXW9M&list=PL221E2BBF13BECF6C&index=43&pp=iAQB)
+* [Wikipedia | Invertible Matrix](https://en.wikipedia.org/wiki/Invertible_matrix)
+* [Wikipedia | Cramers Rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)
 
 ### The Determinant
 
@@ -206,6 +212,12 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [Kimberly Brehm | Linear Algebra 3.1.1 Introduction to Determinants](https://www.youtube.com/watch?v=UWaeMiP_vK8&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=23&pp=iAQB)
 * [Kimberly Brehm | Linear Algebra 3.1.2 Co-factor Expansion](https://www.youtube.com/watch?v=bTf1ixziEO4&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=24&pp=iAQB)
 * [Kimberly Brehm | Linear Algebra 3.2.1 Properties of Determinants](https://www.youtube.com/watch?v=9NRmIEbuSq8&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=25&pp=iAQB)
+* [Wikipedia | Determinant](https://en.wikipedia.org/wiki/Determinant)
+
+Some useful determinant tricks:
+
+* [Laplace Expansion](https://en.wikipedia.org/wiki/Laplace_expansion)
+* [Rule of Sarrus](https://en.wikipedia.org/wiki/Rule_of_Sarrus)
 
 ## Section 15 - Eigenstuffs and Diagonalization
 
@@ -221,6 +233,7 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [Kimberly Brehm | Linear Algebra 5.1.2 More About Eigenvectors and Eigenvalues](https://www.youtube.com/watch?v=g4pC_MQagg8&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=37&pp=iAQB)
 * [Kimberly Brehm | Linear Algebra 5.2.1 Determinants and the IMT](https://www.youtube.com/watch?v=XMWBC5_rFpI&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=38&pp=iAQB)
 * [Kimberly Brehm | Linear Algebra 5.2.2 The Characteristic Equation](https://www.youtube.com/watch?v=a7KAdb2zqvg&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=39&pp=iAQB)
+* [Wikipedia | Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
 
 ### Diagonalization
 
@@ -231,3 +244,4 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [Dr. Trefor Bazett | Compute large powers of a matrix via diagonalization](https://www.youtube.com/watch?v=Z8KBxf4C8kk&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=66&pp=iAQB)
 * [Dr. Trefor Bazett | Full Example: Diagonalizing a Matrix](https://www.youtube.com/watch?v=ieWyx2mlZyk&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=67&pp=iAQB)
 * [Dr. Trefor Bazett | Visualizing Diagonalization & Eigenbases](https://www.youtube.com/watch?v=EJG6gBeVdfw&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=69&pp=iAQB)
+* [Wikipedia | Eigendecomposition(diagonalization) of a matrix](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix)
