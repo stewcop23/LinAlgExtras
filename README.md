@@ -85,7 +85,6 @@ Cant find anything at the moment, I'll try again soon
 * [Kimberly Brehm | Linear Algebra 1.3.2 Linear Combinations](https://www.youtube.com/watch?v=9QXnOwSOoWA&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=6&pp=iAQB)
 * [Wikipedia | Linear Combination](https://en.wikipedia.org/wiki/Linear_combination)
 * [Wikipedia | Span](https://en.wikipedia.org/wiki/Linear_span)
-
 * [How to determine if one vector is in the span of the other vectors](https://youtu.be/kzjVqg0Xxhk?si=hm2weID02XRCbH0D)
 
 ## Section 5 - Linear Independence
