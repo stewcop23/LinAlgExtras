@@ -10,7 +10,7 @@ If you want more on a particular topic, or have resources to share, post in the 
 
 ## Important Notes
 
-We are taught if a transformation is "injective" or "surjective" (or bijective, but thats just both), these are seomtimes reffered to as "one-to-one" and "onto" respectively.
+We are taught if a transformation is "injective" or "surjective" (or bijective, but thats just both), these are sometimes refered to as "one-to-one" and "onto" respectively.
 
 We are taught the "Image" and "Kernel" of a linear transformation. In some of these resources, these are refered to as the "Column Space" and "Null Space" respectively.
 
@@ -24,6 +24,7 @@ Ableson has posted recorded lectures! They're very good, I would recomend watchi
 * [Week 5](https://youtube.com/playlist?list=PL6rD7wR_ngfmnWKSd9jWZUaJ06mO4zK1J&si=qWVHgXfk2uvaikVq)
 * [Week 6](https://youtube.com/playlist?list=PL6rD7wR_ngfmz7PBzYXuRbNK2-hcIgnS1&si=Go1EocBR6C9l9CGS)
 * [Week 7](https://youtube.com/playlist?list=PL6rD7wR_ngfnEZQ933DoG1QPBY-vNhhHY&si=zo0TfZRQYtTBX0ma)
+* [Week 8](https://www.youtube.com/playlist?list=PL6rD7wR_ngfk4PNhJtrGtUYmeuqKh7LM7)
 * [Week 10](https://youtube.com/playlist?list=PL6rD7wR_ngflKExFUirTCape2654DBLtY&si=e_X5CXULPDAA6VV-)
 * [Week 11](https://youtube.com/playlist?list=PL6rD7wR_ngflBWdy8bxIsgi-Q8d_AzZ_9&si=WbtOSw8id-wN6hMY)
 * [Week 12](https://youtube.com/playlist?list=PL6rD7wR_ngfkg3E4fZWuhH9KeBDuBqhD-&si=ZY9RFE-y4KLObPYZ)
@@ -44,7 +45,7 @@ Ableson has posted recorded lectures! They're very good, I would recomend watchi
 * [3Blue1Brown: Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=a3Iv4Xm85umd5VaF)
   * A great math youtube channel in general, and this series provides excelent visualizations of some of the weirder concepts.
 * [Khan Academy | Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-  * If you dont know Khan Academy, you should, they're great. Not sure how close their course is to 174, but there may be a few usefull practice problems on there
+  * If you dont know Khan Academy, you should, they're great. Not sure how close their course is to 174, but there may be a few useful practice problems on there
 * [Kimberly Brehm | Linear Agebra (Entire Course)](https://youtube.com/playlist?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&si=IidBIq97HmHjQie8)
   * I haven't looked very far into this one, but according to a Sci 26, it has "similar content" although it's "in a bit of a different order"
 * [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
