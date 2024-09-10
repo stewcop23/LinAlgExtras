@@ -1,6 +1,6 @@
 # Extra Resources for APSC 174
 
-Dont worry if youre feeling lost in APSC 174, all of the profs are bad. These resources will be provided as a way of augmenting our learning in ways that *hopefully* make more sense than the lectures we are given.
+Dont worry if youre feeling lost in APSC 174, all of the profs have difficulties effectively teaching the course material. These resources will be provided as a way of augmenting our learning in ways that *hopefully* make more sense than the lectures we are given.
 
 ***This is not a replacement of attending lectures!!*** There is material that is covered in class that is so weird and niche that I won't be able to find resources for it.
 
