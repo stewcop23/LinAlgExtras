@@ -16,7 +16,7 @@ We are taught the "Image" and "Kernel" of a linear transformation. In some of th
 
 ## Ableson's Lectures
 
-Ableson has posted recorded lectures! They're very good, I would recomend watching them if you're stuck.
+Ableson has posted recorded lectures! They're very good, I would recommend watching them if you're stuck.
 
 * [Week 2](https://youtube.com/playlist?list=PL6rD7wR_ngfkDQlInmCiyb1XSsf1_gbfj&si=f1j38NGhVLmHXs5x)
 * [Week 3](https://youtube.com/playlist?list=PL6rD7wR_ngfk3ePmRRH4OIDlqFgHH2snT&si=cbUd0oGzWgWk4-MR)
@@ -40,22 +40,23 @@ Ableson has posted recorded lectures! They're very good, I would recomend watchi
   * Solutions to problems can be found at the back of the textbook, but more slightly more detailed answers can be found [HERE](https://jlch3554.files.wordpress.com/2012/11/la-solution-2011-7.pdf)
 
 * [MIT OpenCourseWare: 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
-  * This doesnt cover ALL of 174, there's a few weird things in APSC 174 that 18.06SC doesn't cover, but overall it seems to cover most of it.
-  * This not only has lectures from Gilbert Strang, one of the most well known and highly regarded Linear Algebra Profs of all time, but practice problems, recitations (like a tutorial), and practice exams (all with solutions and expanations of the process)
+  * This course is very hands on compared to what we do, a lot of the first lectures involving matrix decomposition is irrelevant to us.
+  * There isn't a ton of overlap between these courses, but it is taught very well
+  * This not only has lectures from Gilbert Strang, one of the most well known and highly regarded Linear Algebra Profs of all time, but practice problems, recitations (like a tutorial), and practice exams (all with solutions and explanations of the process)
 * [3Blue1Brown: Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=a3Iv4Xm85umd5VaF)
-  * A great math youtube channel in general, and this series provides excelent visualizations of some of the weirder concepts.
+  * A great math youtube channel in general, and this series provides excellent visualizations of some of the weirder concepts.
 * [Khan Academy | Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-  * If you dont know Khan Academy, you should, they're great. Not sure how close their course is to 174, but there may be a few useful practice problems on there
-* [Kimberly Brehm | Linear Agebra (Entire Course)](https://youtube.com/playlist?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&si=IidBIq97HmHjQie8)
+  * If you don't know Khan Academy, you should, they're great. Not sure how close their course is to 174, but there may be a few useful practice problems on there
+* [Kimberly Brehm | Linear Algebra (Entire Course)](https://youtube.com/playlist?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&si=IidBIq97HmHjQie8)
   * I haven't looked very far into this one, but according to a Sci 26, it has "similar content" although it's "in a bit of a different order"
 * [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
-  * Seems like it has plenty of good examples that relate to topics were covering
+  * Seems like it has plenty of good examples that relate to topics we're covering
 * [Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
   * Wikipedia can often be dense, technical, and often goes beyond what we will learn in 174, so it may not help a ton, however, it is written in the same language as 174, and may aid in clearing things up
 
 ## Section 0 - Set Notation & Mappings
 
-Cant find anything at the moment, I'll try again soon
+Set notation isn't super difficult, but this [Wikipedia page](https://en.wikipedia.org/wiki/Set-builder_notation) provides a good reference point. Maps are essentially functions, if you want more, check out this [Wikipedia page](https://en.wikipedia.org/wiki/Map_(mathematics))
 
 ## Section 1 - Systems of Linear Equations
 

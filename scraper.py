@@ -1,13 +1,10 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-import pprint
 
 url = input("Input playlist URL: ")
 
 r = requests.get(url)
-
-# print(r.content)
 
 soup = BeautifulSoup(r.content,"html.parser")
 
@@ -27,7 +24,7 @@ info = json.loads(line)
 
 video_list = info['contents']['twoColumnBrowseResultsRenderer']['tabs'][0]['tabRenderer']['content']['sectionListRenderer']['contents'][0]['itemSectionRenderer']['contents'][0]['playlistVideoListRenderer']['contents']
 
-ids =[]
+ids = []
 youtubers = []
 titles = []
 
@@ -36,9 +33,8 @@ for video in video_list:
     youtubers.append(video['playlistVideoRenderer']['shortBylineText']['runs'][0]['text'])
     ids.append(video['playlistVideoRenderer']['navigationEndpoint']['commandMetadata']['webCommandMetadata']['url'])
     
-for i,id in enumerate(ids):
-    print(f"[{youtubers[i]} | {titles[i]}](https://www.youtube.com{id})")
-    
 with open("output.txt","w") as file:
     for i,id in enumerate(ids):
-        file.write(f"[{youtubers[i]} | {titles[i]}](https://www.youtube.com{id})\n")
+        text = f"[{youtubers[i]} | {titles[i]}](https://www.youtube.com{id})"
+        file.write(f"{text}\n")
+        print(f"{text}")
