@@ -40,11 +40,13 @@ Completed notes: [Download here](https://github.com/stewcop23/LinAlgExtras/blob/
 * [Linear Algebra 4th Edition](https://ia804704.us.archive.org/22/items/linear-algibra-4th-edition-by-friedberg/Linear%20Algibra%204th%20edition%20by%20Friedberg.pdf)
   * The textbook for this course, useful if you skip lectures, but once again, probably not a complete replacement.
   * Solutions to problems can be found at the back of the textbook, but more slightly more detailed answers can be found [HERE](https://jlch3554.files.wordpress.com/2012/11/la-solution-2011-7.pdf)
-
+* [The Bright Side of Mathematics | Linear Algebra](https://www.youtube.com/playlist?list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6)
+  * Seems to cover a lot of the material that we do, and from watching some of his other content these vides should be very high quality.
+* [The Bright Side of Mathematics | Abstract Linear Algebra](https://www.youtube.com/watch?v=HCX1j_aTQGs&list=PLBh2i93oe2qvyrgm_lchujtMbEdXFAHEQ)
+  * Some of the topics in this playlist overlap with our content
 * [MIT OpenCourseWare: 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   * This course is very hands on compared to what we do, a lot of the first lectures involving matrix decomposition is irrelevant to us.
   * There isn't a ton of overlap between these courses, but it is taught very well
-  * This not only has lectures from Gilbert Strang, one of the most well known and highly regarded Linear Algebra Profs of all time, but practice problems, recitations (like a tutorial), and practice exams (all with solutions and explanations of the process)
 * [3Blue1Brown: Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=a3Iv4Xm85umd5VaF)
   * A great math youtube channel in general, and this series provides excellent visualizations of some of the weirder concepts.
 * [Khan Academy | Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -74,6 +76,8 @@ Set notation isn't super difficult, but this [Wikipedia page](https://en.wikiped
 * [3Blue1Brown | Abstract Vector Spaces](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
 * [LibreTexts | 4.1: Deﬁnition of vector spaces](https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%3A_Vector_spaces/4.01%3A_De%EF%AC%81nition_of_vector_spaces#:~:text=A%20vector%20space%20over%20R%20is%20usually%20called,V%20of%20a%20vector%20space%20are%20called%20vectors.)
 * [Wikipedia | Vector space](https://en.wikipedia.org/wiki/Vector_space)
+* [The Bright Side of Mathematics | Linear Algebra 2 | Vectors in ℝ²](https://www.youtube.com/watch?v=eS1QJ5Sfz0Q&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=2&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 5 | Vector Space ℝn](https://www.youtube.com/watch?v=xT0pxcygvLw&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=5&pp=iAQB)
 
 ## Section 3 - Vector Subspaces
 
@@ -81,6 +85,8 @@ Set notation isn't super difficult, but this [Wikipedia page](https://en.wikiped
 * [Khan Academy | Linear Subspaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
 * [Kimberly Brehm | Subspaces of a Vector Space](https://www.youtube.com/watch?v=2Ee2B1Jp5ZE)
 * [Dr Trefor Bazett | Subspaces](https://youtu.be/rgxyxcTwvuo?si=hrAhS-z1bpW80Wr9)
+* [The Bright Side of Mathematics | Linear Algebra 6 | Linear Subspaces](https://www.youtube.com/watch?v=TITspOSjMZw&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=6&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 7 | Examples for Subspaces](https://www.youtube.com/watch?v=gVQCXMbw098&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=7&pp=iAQB)
 
 ## Section 4 - Linear Combinations & Span
 
@@ -90,6 +96,7 @@ Set notation isn't super difficult, but this [Wikipedia page](https://en.wikiped
 * [Wikipedia | Linear Combination](https://en.wikipedia.org/wiki/Linear_combination)
 * [Wikipedia | Span](https://en.wikipedia.org/wiki/Linear_span)
 * [How to determine if one vector is in the span of the other vectors](https://youtu.be/kzjVqg0Xxhk?si=hm2weID02XRCbH0D)
+* [The Bright Side of Mathematics | Linear Algebra 8 | Linear Span](https://www.youtube.com/watch?v=h7JpJfAcFFk&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=8&pp=iAQB)
 
 ## Section 5 - Linear Independence
 
@@ -100,6 +107,8 @@ Set notation isn't super difficult, but this [Wikipedia page](https://en.wikiped
 * [Kimberly Brehm | Linear Independence](https://youtu.be/ofGN1Gtgjok?si=AP3WDnoh5DWCBOS6)
 * [Kimberly Brehm | Special Methods of Determining Linear Independence](https://www.youtube.com/watch?v=EdLoNRo0s28&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=14&t=132s)
 * [Dr. Trefor Bazett | Linear Independence and Dependence - Geometrically](https://youtu.be/Bn547nOfs3w?si=al0JmK0ZxB1H8C43)
+* [The Bright Side of Mathematics | Linear Algebra 22 | Linear Independence (Definition)](https://www.youtube.com/watch?v=UeHqH1yhoqU&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=22&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 23 | Linear Independence (Examples)](https://www.youtube.com/watch?v=Xdx0ZG7T648&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=23&pp=iAQB)
 
 ## Section 6 - "Applications of Systems of Linear Equations"
 
@@ -129,6 +138,8 @@ Dependant? There is infinitely many solutions.
 * [Dr Trefor Bazett | Row Echelon Form and Reduced Row Echelon Form](https://www.youtube.com/watch?v=W01H0LcVUdQ&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=8)
 * [Dr Trefor Bazett | Back Substitution with infinitely many solutions](https://www.youtube.com/watch?v=3lMH_no_OvA&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=9)
 * [Wikipedia | Elementary row operations](https://en.wikipedia.org/wiki/Elementary_matrix#Elementary_row_operations)
+* [The Bright Side of Mathematics | Linear Algebra 11 | Matrices](https://www.youtube.com/watch?v=sCzd7fXxFds&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=11&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 12 | Systems of Linear Equations](https://www.youtube.com/watch?v=740F1l5E8Cc&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=12&pp=iAQB)
 
 ## Section 8 & 9 - Generating Sets and Bases, Finite Dimensional Bases
 
@@ -152,6 +163,13 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [Khan Academy | Functions and linear transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions)
 * [Khan Academy | Linear transformation examples](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-scaling-and-reflections)
 * [Kimberly Brehm | Introduction to Linear Transformations](https://www.youtube.com/watch?v=ofAcvZVEfBk&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&index=16)
+* [The Bright Side of Mathematics | Linear Algebra 14 | Column Picture of the Matrix-Vector Product](https://www.youtube.com/watch?v=PZyTBvc9qxQ&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=14&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 15 | Row Picture](https://www.youtube.com/watch?v=g1qLd_1F10Q&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=15&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 16 | Matrix Product](https://www.youtube.com/watch?v=8R0BdG9XnAk&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=16&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 17 | Properties of the Matrix Product](https://www.youtube.com/watch?v=BqcxYCM19Wo&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=17&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 18 | Linear Maps (Definition)](https://www.youtube.com/watch?v=Xi-HknrH6OM&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=18&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 20 | Linear maps induce matrices](https://www.youtube.com/watch?v=9UcgdR_X2Ys&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=20&pp=iAQB)
+* [The Bright Side of Mathematics | Linear Algebra 21 | Examples of Linear Maps](https://www.youtube.com/watch?v=eV7UI_WX54c&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=21&pp=iAQB)
 
 ## Section 11 - Image, Kernel, and rank-nullity
 
@@ -202,6 +220,7 @@ A basis for $V$ is a generating set for $V$ that is also linearly independant. A
 * [MIT OpenCourseWare | 20. Cramer's Rule, Inverse Matrix, and Volume](https://www.youtube.com/watch?v=QNpj-gOXW9M&list=PL221E2BBF13BECF6C&index=43&pp=iAQB)
 * [Wikipedia | Invertible Matrix](https://en.wikipedia.org/wiki/Invertible_matrix)
 * [Wikipedia | Cramers Rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)
+* [The Bright Side of Mathematics | Linear Algebra 29 | Identity and Inverses](https://www.youtube.com/watch?v=JUimgJ9E4-c&list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6&index=29&pp=iAQB)
 
 ### The Determinant
 
