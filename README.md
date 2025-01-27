@@ -29,7 +29,7 @@ Ableson has posted recorded lectures! They're very good, I would recommend watch
 * [Week 11](https://youtube.com/playlist?list=PL6rD7wR_ngflBWdy8bxIsgi-Q8d_AzZ_9&si=WbtOSw8id-wN6hMY)
 * [Week 12](https://youtube.com/playlist?list=PL6rD7wR_ngfkg3E4fZWuhH9KeBDuBqhD-&si=ZY9RFE-y4KLObPYZ)
 
-Completed notes: [Download here](https://github.com/stewcop23/LinAlgExtras/blob/main/APSC%20174%20-%20Ableson%20-%20Lin%20Alg.onepkg)
+For annotated notes (not mine, but very good), please email.
 
 ## Previous Exams
 
