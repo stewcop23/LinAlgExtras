@@ -116,7 +116,7 @@ This section boils down to asking: "how many solutions are there to: $w = \alpha
 
 The answer to this question is another question:
 
-Is $w\in Span_{v_1,v_2,...,v_p}$?
+Is $w\in Span \left[ v_1,v_2,...,v_p \right]$?
 
 No? Then there are no solutions.
 
